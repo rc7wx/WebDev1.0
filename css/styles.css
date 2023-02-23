@@ -1,12 +1,15 @@
 body {
     background-color: #6ECCAF;
     margin: 0;
+    text-align: center;
 }
 
 div {background-color: #F0D9E7
     }
 h1 {
-    margin-top: 0;
+    margin-top: 100px;
+    margin: auto;
+
     }
 hr {
     
@@ -17,6 +20,9 @@ hr {
 
 }
 
+.top-container {
+    top: 100px;
+}
 .middle-container { 
     background-color: #A239EA;
     height: 200px;
@@ -28,3 +34,8 @@ hr {
     height: 200px;
     width: 200px;
 }
+
+#flowers { 
+    height: auto;
+    width: auto; 
+    }
